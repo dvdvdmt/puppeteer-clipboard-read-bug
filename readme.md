@@ -1,6 +1,6 @@
 ## Motivation
 
-The 'clipboard-copy' and 'clipboard-paste' permissions are not working on Chrome Extension pages.
+The 'clipboard-read' and 'clipboard-write' permissions are not working on Chrome Extension pages.
 However, the programmatic manipulation of the clipboard works fine after manual granting of the
 permissions in the browser settings.
 This is an example that reproduces the issue
