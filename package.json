@@ -4,5 +4,8 @@
   "type": "module",
   "dependencies": {
     "puppeteer": "^19.11.1"
+  },
+  "scripts": {
+    "test": "node test.js"
   }
 }
